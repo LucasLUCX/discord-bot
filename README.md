@@ -33,4 +33,8 @@ commands
 
 how to activate
 -----------------------------------------------------------
+On Windows: $ py -3 example_bot.py
+
+On other systems: $ python3 example_bot.py
+
 to activate the bot yourself you need to put your discord bot token down in bot.run
